@@ -1,5 +1,5 @@
-
-import 'package:account/features/account/views/accont_views.dart';
+import 'package:account/features/e03R00002/widgets/e03R00002.dart';
+import 'package:account/features/e03R00002/widgets/e03R00002_widgets.dart';
 import 'package:flutter/material.dart';
 
 final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: AccountView());
+        home: E03R00002Widget());
   }
 }
 

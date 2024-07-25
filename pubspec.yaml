@@ -43,6 +43,9 @@ dependencies:
   copy_with_extension: ^5.0.4
   json_annotation: ^4.9.0
   syncfusion_flutter_datepicker: ^26.1.42
+  google_fonts: ^6.2.1
+  pdfx: ^2.6.0
+  freezed_annotation: ^2.4.4
 
 dev_dependencies:
   flutter_test:
